@@ -3,7 +3,7 @@ html, body
     margin:0;
     border: 0;
     box-sizing: border-box;
-    background: rgb(255, 255, 255);
+    background: rgb(255, 251, 251);
     display: grid;
     place-items: center;
     width: 100%;
